@@ -1,7 +1,7 @@
 ImageSegmentation
 =================
 
-An image segmentation project, using clustering algorithms.
+An image segmentation project, using clustering algorithms, implemented in matlab.
 
 This project was developed for the purposes of the course 'Machine Learning' of cs department, Athens University of Economics and Business, 
 during the Spring semester 2013 - 2014.
